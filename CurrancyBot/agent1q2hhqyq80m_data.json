@@ -1,0 +1,17 @@
+{
+    "Conditions": [
+        {
+            "type": "U",
+            "currancy": "USD",
+            "Threshold": 89.0
+        },
+        {
+            "type": "U",
+            "currancy": "EUR",
+            "Threshold": 100.0
+        }
+    ],
+    "conditionsCount": 2,
+    "Base": "INR",
+    "setup": true
+}
