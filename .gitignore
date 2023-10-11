@@ -1,2 +1,6 @@
-venv
-*.env
+venv/
+.venv/
+.gitignore
+templates/
+app.py
+*.json
