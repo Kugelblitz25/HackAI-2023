@@ -1,6 +1,5 @@
 venv/
 .venv/
-.gitignore
-templates/
-app.py
 *.json
+*/*/__pycache__/
+*/__pycache__/
